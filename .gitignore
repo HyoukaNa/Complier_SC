@@ -1,0 +1,12 @@
+*.sdf
+*.sln
+*.opensdf
+.vs/
+Debug/
+Release/
+
+#Complier_SC/..
+Debug/
+Release/
+scanner_result.txt
+input.txt
